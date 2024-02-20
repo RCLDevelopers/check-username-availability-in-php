@@ -7,7 +7,7 @@
     <link rel="icon" href="https://zangticsdigital.com/storage/web-logo-rr-1.png" type="image/x-icon">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <title>Check username availability in php using ajax - Coding Birds Online</title>
+    <title>Check username availability in php using ajax - Zangtics Digital Online</title>
 </head>
 <body>
 <div class="container">
